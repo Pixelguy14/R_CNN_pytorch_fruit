@@ -1,6 +1,5 @@
 # R_CNN_pytorch_fruit
-Region-based Convolutional Neural Network made to identify fruits from images using pyTorch. Image dataset thanks to<br>
-Moltean, D. (2018). Fruits Dataset. Kaggle. Retrieved from https://www.kaggle.com/datasets/moltean/fruits/data <br>
+Region-based and Image-based Convolutional Neural Network made to identify fruits from images using pyTorch. Image dataset thanks to<br>
 Seth, K. (2019). Fruit and Vegetable Image Recognition Dataset. Kaggle. Retrieved from https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition <br>
 Filo, C. (2017). Fruit Recognition Dataset. Kaggle. Retrieved from https://www.kaggle.com/datasets/chrisfilo/fruit-recognition/data <br>
 KOKLU, M., KURSUN, R., TASPINAR, Y. S. and CINAR, I. (2021). Classification of Date Fruits into Genetic Varieties Using Image Analysis. Mathematical Problems in Engineering, Vol.2021, Article ID: 4793293. from https://www.muratkoklu.com/datasets/ <br>

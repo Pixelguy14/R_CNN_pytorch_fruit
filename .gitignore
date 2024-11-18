@@ -4,5 +4,4 @@ dataset/annotations/voc_annotations
 testset
 output_testset
 archive
-classification_model_0.pth
-classification_model_1.pth
+clean_dataset
