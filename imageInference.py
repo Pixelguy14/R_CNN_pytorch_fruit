@@ -3,7 +3,7 @@
 ÁNGEL EMMANUEL URBINA NAVARRETE
 JOSÉ JULIÁN SIERRA ÁLVAREZ
 '''
-# Importacion de bibliotecasimport torch
+# Importacion de bibliotecas
 import torch
 import torchvision
 from torchvision import transforms
