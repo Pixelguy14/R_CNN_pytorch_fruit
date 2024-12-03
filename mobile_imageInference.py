@@ -30,7 +30,7 @@ def get_prediction(img_path):
     return img, label
 
 # Example usage
-img_path = 'testset/Guava011.png'
+img_path = './data/testset/Image_10 (8).jpg'
 #img_path = 'testset/Peach0011.png'
 #img_path = 'testset/Banana08.png'
 img, label = get_prediction(img_path)

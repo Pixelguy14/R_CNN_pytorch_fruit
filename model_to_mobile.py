@@ -19,7 +19,7 @@ class MyModel(nn.Module):
 model = MyModel()
 
 # Load the state dictionary
-state_dict = torch.load('classification_model.pth', map_location=torch.device('cpu'), weights_only=True)
+state_dict = torch.load('classification_model.pth', map_location=torch.device('cpu'))
 
 # Adjust the keys if they are missing a prefix or need other modifications
 adjusted_state_dict = {}
